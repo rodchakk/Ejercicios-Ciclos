@@ -50,9 +50,7 @@ Algoritmo converiones
 
 				Escribir ""
 				Escribir ""
-				
-				
-				
+
 				
 			3:
 				Escribir "Tablas de multiplicar"
